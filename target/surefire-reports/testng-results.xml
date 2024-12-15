@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-14T13:47:46 EST" name="Automation" finished-at="2024-12-14T13:48:17 EST" duration-ms="31055">
+    <groups>
+    </groups>
+    <test started-at="2024-12-14T13:47:46 EST" name="Login" finished-at="2024-12-14T13:48:17 EST" duration-ms="31055">
+      <class name="com.testng.testcases.LoginTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testng.testcases.LoginTest@333291e3]" started-at="2024-12-14T13:47:46 EST" name="beforeMethod" finished-at="2024-12-14T13:47:51 EST" duration-ms="4411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="logInNoPassword()[pri:1, instance:com.testng.testcases.LoginTest@333291e3]" started-at="2024-12-14T13:47:51 EST" name="logInNoPassword" finished-at="2024-12-14T13:47:54 EST" duration-ms="2716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInNoPassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.testcases.LoginTest@333291e3]" started-at="2024-12-14T13:47:54 EST" name="teardown" finished-at="2024-12-14T13:47:54 EST" duration-ms="803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testng.testcases.LoginTest@333291e3]" started-at="2024-12-14T13:47:54 EST" name="beforeMethod" finished-at="2024-12-14T13:47:56 EST" duration-ms="1829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginValidUserName()[pri:2, instance:com.testng.testcases.LoginTest@333291e3]" started-at="2024-12-14T13:47:56 EST" name="loginValidUserName" finished-at="2024-12-14T13:47:59 EST" duration-ms="2572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginValidUserName -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.testcases.LoginTest@333291e3]" started-at="2024-12-14T13:47:59 EST" name="teardown" finished-at="2024-12-14T13:48:01 EST" duration-ms="1837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testng.testcases.LoginTest@333291e3]" started-at="2024-12-14T13:48:01 EST" name="beforeMethod" finished-at="2024-12-14T13:48:03 EST" duration-ms="2044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="remeberMeCheckBox()[pri:3, instance:com.testng.testcases.LoginTest@333291e3]" started-at="2024-12-14T13:48:03 EST" name="remeberMeCheckBox" finished-at="2024-12-14T13:48:09 EST" duration-ms="5839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remeberMeCheckBox -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.testcases.LoginTest@333291e3]" started-at="2024-12-14T13:48:09 EST" name="teardown" finished-at="2024-12-14T13:48:09 EST" duration-ms="339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testng.testcases.LoginTest@333291e3]" started-at="2024-12-14T13:48:09 EST" name="beforeMethod" finished-at="2024-12-14T13:48:11 EST" duration-ms="1627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="forgotPassword4a()[pri:4, instance:com.testng.testcases.LoginTest@333291e3]" started-at="2024-12-14T13:48:11 EST" name="forgotPassword4a" finished-at="2024-12-14T13:48:13 EST" duration-ms="2145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPassword4a -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.testcases.LoginTest@333291e3]" started-at="2024-12-14T13:48:13 EST" name="teardown" finished-at="2024-12-14T13:48:13 EST" duration-ms="404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testng.testcases.LoginTest@333291e3]" started-at="2024-12-14T13:48:13 EST" name="beforeMethod" finished-at="2024-12-14T13:48:14 EST" duration-ms="1416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="forgotPassword4b()[pri:5, instance:com.testng.testcases.LoginTest@333291e3]" started-at="2024-12-14T13:48:14 EST" name="forgotPassword4b" finished-at="2024-12-14T13:48:17 EST" duration-ms="2416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPassword4b -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.testcases.LoginTest@333291e3]" started-at="2024-12-14T13:48:17 EST" name="teardown" finished-at="2024-12-14T13:48:17 EST" duration-ms="577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testng.testcases.LoginTest -->
+    </test> <!-- Login -->
+  </suite> <!-- Automation -->
+</testng-results>
