@@ -137,7 +137,7 @@ public class UserMenuPage extends BasePage {
 	}
 	 
 	 public void validateTC05() {
-		 
+		 // this is not working
 		 List<String> menuDropDownItems = new ArrayList<String>(Arrays.asList("My Profile","My Settings","Developer Console","Switch to Lightning Experience","Logout"));
 		 List<WebElement> whatWeSee = driver.findElements(By.cssSelector("div#userNav-menuItems a"));
 		 System.out.println(whatWeSee);
